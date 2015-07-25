@@ -7,3 +7,6 @@ Raspberry-pi
 hex-bug  
 ruby  
 bundler  
+
+## Todo
+公開鍵の設定  
