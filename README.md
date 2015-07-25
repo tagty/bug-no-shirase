@@ -1,5 +1,5 @@
 # bug-no-shirase
-bug notifier gadget
+bug notifier gadget  
 'bug-no-shirase' means 'mushi-no-shirase'
 
 ## environment
