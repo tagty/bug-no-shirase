@@ -1,5 +1,7 @@
 # bug-no-shirase
 bug notifier gadget
+'bug-no-shirase' means 'mushi-no-shirase'
 
-# env
+## environment
 Raspberry-pi
+hex-bug
