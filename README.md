@@ -5,8 +5,10 @@ bug notifier gadget
 ## environment
 Raspberry-pi  
 hex-bug  
-ruby  
+ruby
 bundler  
 
 ## Todo
+- Raspberry-piとhex-bugをつなげる
+-
 公開鍵の設定  
